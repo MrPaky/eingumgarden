@@ -20,13 +20,13 @@ Scrivi qui una descrizione completa della fazione, i suoi obiettivi dichiarati, 
 - 
 
 ##  Gerarchia interna
-|     | Titolo                 | Conosciuto come         |
-| --- | ---------------------- | ----------------------- |
-| 1   | Ministro dell'Economia | Torquatio Laurentius    |
-| 2   | Ministro degli Interni | Sprok Due Soldi         |
-| 3   | Ministro degli Esteri  | Evelyn Scintilla        |
-| 4   | Ministro del Tesoro    | Jack J. Jacklin Johnson |
-| 5   | Ministro della guerra  | Julius Pugno di Ferro   |
+|     | Titolo                 | Conosciuto come             |
+| --- | ---------------------- | --------------------------- |
+| 1   | Ministro dell'Economia | [[Personaggi/Personaggi non giocanti/PNG Boukan/Harabor/5 Corporazioni/Torquatio Laurentius\|Torquatio Laurentius]]    |
+| 2   | Ministro degli Interni | [[Personaggi/Personaggi non giocanti/PNG Boukan/Harabor/5 Corporazioni/Sprok Due Soldi\|Sprok Due Soldi]]         |
+| 3   | Ministro degli Esteri  | [[Personaggi/Personaggi non giocanti/PNG Boukan/Harabor/5 Corporazioni/Evelyn Scintilia\|Evelyn Scintilia]]        |
+| 4   | Ministro del Tesoro    | [[Personaggi/Personaggi non giocanti/PNG Boukan/Harabor/5 Corporazioni/Jack J. Jacklin Johnson\|Jack J. Jacklin Johnson]] |
+| 5   | Ministro della guerra  | [[Personaggi/Personaggi non giocanti/PNG Boukan/Harabor/5 Corporazioni/Julius Pugno di Ferro\|Julius Pugno di Ferro]]   |
 
 ## Membri importanti
 - 

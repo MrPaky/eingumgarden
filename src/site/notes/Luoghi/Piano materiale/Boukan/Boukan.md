@@ -23,7 +23,7 @@ Umani, Tiefling, Mezz'orchi, Goliath, Elfi, Mezzelfi, Genasi Terra, Genasi Fuoco
 Boukan ha sviluppato una tecnologia unica, definibile come **“planar-tecnica”**:
 
 - **[[Velieri planari\|Velieri planari]]**, capaci di viaggiare tra i Gate come se fossero correnti oceaniche.
-- **[[Oggetti/Oggetti/Magici/Bussole del Vento Silente\|Bussole del Vento Silente]]**: strumenti magici che indicano la posizione di tasche planari instabili.
+- **[[Oggetti/Oggetti/Magici/Minori/Harabor/Bussole del Vento Silente\|Bussole del Vento Silente]]**: strumenti magici che indicano la posizione di tasche planari instabili.
 - **[[Luoghi/Piano materiale/Boukan/Mercati d’Illusione\|Mercati d’Illusione]]**: spazi commerciali inter-dimensionali dove merci (e persone) vengono scambiate in tempo reale tra piani diversi.
 
 ## Economia
