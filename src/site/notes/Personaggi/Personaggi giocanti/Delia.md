@@ -4,24 +4,23 @@
 
 
 # Delia
-
+![Img Delia.png|center|500](/img/user/Immagini/Img%20Delia.png)
 
 ## Descrizione
-Breve descrizione fisica e comportamentale visibile a chiunque incontri il personaggio.  
-*Esempio: "Un mezzelfo dal mantello consunto, sempre sorridente, con un tatuaggio a forma di luna sulla mano destra."*
+
 
 ---
 
 ##  Informazioni Base
 - **Classe:**  Chierico
 - **Razza:**  Tiefling
-- **Livello:**  5
+- **Livello:**  6
 - **Ruolo nel gruppo:** - 
 
 ---
 
 ##  Relazioni
-- **Rapporto con il party:** Come interagisce con gli altri PG.  
+- **Rapporto con il party:**   
 - **PNG rilevanti:**
 - **Luoghi legati:** 
 

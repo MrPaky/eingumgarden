@@ -38,7 +38,7 @@ Una setta vera e propria che si è formata qualche anno dopo la scomparsa di Wra
 
 
 ## Eventi storici rilevanti
-- 
+- Attacco coordinato alla città di Harabor.
 - 
 - 
 

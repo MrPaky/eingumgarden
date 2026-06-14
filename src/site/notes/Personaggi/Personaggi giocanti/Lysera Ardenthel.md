@@ -4,7 +4,7 @@
 
 
 # Lysera Ardenthel
-
+![Img Lyseria.png| center|500](/img/user/Immagini/Img%20Lyseria.png)
 ## Descrizione
 Breve descrizione fisica e comportamentale visibile a chiunque incontri il personaggio.  
 *Esempio: "Un mezzelfo dal mantello consunto, sempre sorridente, con un tatuaggio a forma di luna sulla mano destra."*
@@ -14,7 +14,7 @@ Breve descrizione fisica e comportamentale visibile a chiunque incontri il perso
 ##  Informazioni Base
 - **Classe:**  Chierico
 - **Razza:**  Umana
-- **Livello:**  5
+- **Livello:**  6
 - **Ruolo nel gruppo:** -
 
 ---

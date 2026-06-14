@@ -11,7 +11,7 @@ Vengono organizzati di solito in maniera autonoma dai mercanti, ma spesso anche 
 
 ## Influenze e fazioni
 - [[Ambientazione/Fazioni/Fazioni Boukan/Cinque corporazioni\|Cinque corporazioni]]
-- 
+- [[Personaggi/Personaggi non giocanti/PNG Boukan/Harabor/5 Corporazioni/Torquatio Laurentius\|Torquatio Laurentius]]
 
 ## Cosa si può trovare
 

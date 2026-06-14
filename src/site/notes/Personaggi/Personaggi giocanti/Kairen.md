@@ -4,6 +4,7 @@
 
 
 # Kairen
+![Img Kairen.png|center|500](/img/user/Immagini/Img%20Kairen.png)
 
 ## Descrizione
 Breve descrizione fisica e comportamentale visibile a chiunque incontri il personaggio.  
@@ -12,9 +13,9 @@ Breve descrizione fisica e comportamentale visibile a chiunque incontri il perso
 ---
 
 ##  Informazioni Base
-- **Classe:**  Cacciatore di Sangue
+- **Classe:**  Cacciatore del Sangue
 - **Razza:** Shadarkai 
-- **Livello:**  5
+- **Livello:**  6
 - **Ruolo nel gruppo:** -
 
 ---
