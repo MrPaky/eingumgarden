@@ -17,7 +17,7 @@ Un gigante tra gli umani, annerito dal fuoco ma ancora elegante nel portamento. 
 - Alleato/Avversario di: 
 
 ## Trame legate
-- [[Sulle tracce del Giallo\|Sulle tracce del Giallo]]
+- [[Campagna/Missioni secondarie/PNG Missioni/Sulle tracce del Giallo\|Sulle tracce del Giallo]]
 - 
 - 
 

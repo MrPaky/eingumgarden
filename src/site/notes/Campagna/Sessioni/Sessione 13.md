@@ -20,7 +20,9 @@ Ora però tutti sono guardinghi, ci si potrà fidare di questi sconosciuti?? Son
 - [[Personaggi/Personaggi giocanti/Delia\|Delia]]
 - [[Personaggi/Personaggi giocanti/Caaros\|Caaros]]
 - [[Personaggi/Personaggi giocanti/Xeasan\|Xeasan]]
-
+- [[Bestiario/Umanoidi/Yuan-ti Broodguard\|Yuan-ti Broodguard]]
+- [[Bestiario/Non-morti/Viverna Non-morta\|Viverna Non-morta]]
+- Drago di Bronzo
 
 ## Luoghi visitati
 - 

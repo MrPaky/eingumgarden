@@ -9,7 +9,7 @@
 Questo è il modo in cui le cinque parti che hanno costituito la città di Harabor si definiscono quando operano in maniera unita, tralasciando le singole attività dei vari ministeri. Se da un lato non è facile mettere così tante personalità con un focus specifico, quando ciò accade la potenza, di ogni genere, che ne può scaturire non è indifferente.
 
 ## Zona di influenza
-- [[Luoghi/Piano materiale/Boukan/Harabor\|Harabor]]
+- [[Luoghi/Piano materiale/Boukan/Harabor Città/Harabor\|Harabor]]
 - [[Luoghi/Piano materiale/Boukan/Boukan\|Boukan]]
 - 
 

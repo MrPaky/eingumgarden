@@ -26,5 +26,5 @@ Tiefling dall'incarnato rosso mattone, con barba leggermente incolta e capelli a
 - 
 
 ## Luoghi associati
-- [[Luoghi/Piano materiale/Boukan/Harabor\|Harabor]]
+- [[Luoghi/Piano materiale/Boukan/Harabor Città/Harabor\|Harabor]]
 - 

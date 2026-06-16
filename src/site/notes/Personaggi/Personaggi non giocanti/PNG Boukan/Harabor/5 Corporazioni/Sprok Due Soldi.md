@@ -26,6 +26,6 @@ Goblin atipico, non solo per l'abbigliamento, ma anche e soprattutto per la cari
 - 
 
 ## Luoghi associati
-- [[Luoghi/Piano materiale/Boukan/Palazzo degli Occhi Vigili\|Palazzo degli Occhi Vigili]]
-- [[Luoghi/Piano materiale/Boukan/Harabor\|Harabor]]
+- [[Luoghi/Piano materiale/Boukan/Harabor Città/Palazzo degli Occhi Vigili\|Palazzo degli Occhi Vigili]]
+- [[Luoghi/Piano materiale/Boukan/Harabor Città/Harabor\|Harabor]]
 

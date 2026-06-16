@@ -6,7 +6,7 @@
 # Boukan
 
 # Descrizione
-**[[Luoghi/Piano materiale/Boukan/Harabor\|Harabor]]**, la Città delle Possibilità. Qui la marea detta legge tanto quanto i consiglieri della città. Ogni parte della città è un quartiere, e ogni quartiere è legato a una diversa corporazione. [[Luoghi/Piano materiale/Boukan/Neviandre\|Neviandre]] l’ex capitale è stata relegata a seconda città principale del regno a favore di Harabor che ha uno sbocco sul mare di Diana ed è più vicina al regno di Eiton, avendone favorito così le rotte commerciali e gli scambi nel corso dell'ultimo decennio, permettendogli uno sviluppo veloce e spropositato.
+**[[Luoghi/Piano materiale/Boukan/Harabor Città/Harabor\|Harabor]]**, la Città delle Possibilità. Qui la marea detta legge tanto quanto i consiglieri della città. Ogni parte della città è un quartiere, e ogni quartiere è legato a una diversa corporazione. [[Luoghi/Piano materiale/Boukan/Neviandre\|Neviandre]] l’ex capitale è stata relegata a seconda città principale del regno a favore di Harabor che ha uno sbocco sul mare di Diana ed è più vicina al regno di Eiton, avendone favorito così le rotte commerciali e gli scambi nel corso dell'ultimo decennio, permettendogli uno sviluppo veloce e spropositato.
 
 ---
 
@@ -24,7 +24,7 @@ Boukan ha sviluppato una tecnologia unica, definibile come **“planar-tecnica�
 
 - **[[Velieri planari\|Velieri planari]]**, capaci di viaggiare tra i Gate come se fossero correnti oceaniche.
 - **[[Oggetti/Oggetti/Magici/Minori/Harabor/Bussole del Vento Silente\|Bussole del Vento Silente]]**: strumenti magici che indicano la posizione di tasche planari instabili.
-- **[[Luoghi/Piano materiale/Boukan/Mercati d’Illusione\|Mercati d’Illusione]]**: spazi commerciali inter-dimensionali dove merci (e persone) vengono scambiate in tempo reale tra piani diversi.
+- **[[Luoghi/Piano materiale/Boukan/Harabor Città/Mercati d’Illusione\|Mercati d’Illusione]]**: spazi commerciali inter-dimensionali dove merci (e persone) vengono scambiate in tempo reale tra piani diversi.
 
 ## Economia
 
