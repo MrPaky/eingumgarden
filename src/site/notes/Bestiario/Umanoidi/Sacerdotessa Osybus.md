@@ -13,18 +13,18 @@ Dall'aspetto umano, la carnagione olivastra, l'assenza di capelli rende ben visi
 - Sacerdotessa
 
 ## 🌍 Origine
-- Piano natale: **Ignoto
-- Creatore: **Ignoto
-- Circostanze della sua nascita: **Ignoto
+- Piano natale: **Ignoto**
+- Creatore: **Ignoto**
+- Circostanze della sua nascita: **Ignoto**
 
 ## 🎯 Obiettivi
 Permettere il ritorno sul Piano Materiale del suo Signore.
 
 ## 🧠 Personalità
-- Ideali: **Ritorno del suo signore
-- Paure: **Ignoto
-- Ossessioni: **Ritorno del suo signore
-- Metodo d'azione: **Utilizzo della Necromanzia
+- Ideali: **Ritorno del suo signore**
+- Paure: **Ignoto**
+- Ossessioni: **Ritorno del suo signore**
+- Metodo d'azione: **Utilizzo della Necromanzia**
 
 ## ⚔️ Poteri Straordinari
 Elenco delle capacità che la rendono unica.

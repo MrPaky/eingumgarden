@@ -14,19 +14,19 @@ Una viverna non morta che sembra essere stata rattoppata in diversi punti con pe
 - Avvistato nella zona paludosa attorno Harabor.
 
 ## 🧠 Comportamento
-- Solitaria o gregaria: **Ignoto
-- Territoriale o migratoria: **Ignoto
-- Intelligenza e abitudini: **Ignoto
+- Solitaria o gregaria: **Ignoto**
+- Territoriale o migratoria: **Ignoto**
+- Intelligenza e abitudini: **Ignoto**
 
 ## ⚔️ Capacità Note
-- Attacchi caratteristici: Morso e Artigliate
-- Abilità speciali: **Soffio Necrotico (Rettilineo)
-- Resistenze o vulnerabilità note: **Ignoto
+- Attacchi caratteristici: **Morso e Artigliate**
+- Abilità speciali: **Soffio Necrotico (Rettilineo)**
+- Resistenze o vulnerabilità note: **Ignoto**
 
 ## 🦴 Anatomia e Risorse
-- Parti utilizzabili: **Ignoto
-- Componenti alchemici: **Ignoto
-- Materiali preziosi: **Ignoto
+- Parti utilizzabili: **Ignoto**
+- Componenti alchemici: **Ignoto**
+- Materiali preziosi: **Ignoto**
 
 ## 📜 Leggende e Dicerie
 Non pervenuto

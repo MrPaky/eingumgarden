@@ -17,17 +17,17 @@ Le guardie della covata, sono creature emaciate e senza pelle né capelli. Sono
 ## 🧠 Comportamento
 - Natura gregaria
 - Territoriale
-- Intelligenza e abitudini: **Ignoto
+- Intelligenza e abitudini: **Ignoto**
 
 ## ⚔️ Capacità Note
-- Attacchi caratteristici: Artigli e Morsi
-- Abilità speciali: **Ignoto
-- Resistenze o vulnerabilità: **Ignoto
+- Attacchi caratteristici: **Artigli e Morsi**
+- Abilità speciali: **Ignoto**
+- Resistenze o vulnerabilità: **Ignoto**
 
 ## 🦴 Anatomia e Risorse
-- Parti utilizzabili: **Ignoto
-- Componenti alchemici: **Ignoto
-- Materiali preziosi: **Ignoto
+- Parti utilizzabili: **Ignoto**
+- Componenti alchemici: **Ignoto**
+- Materiali preziosi: **Ignoto**
 
 ## 📜 Leggende e Dicerie
 Nessuna voce a riguardo
