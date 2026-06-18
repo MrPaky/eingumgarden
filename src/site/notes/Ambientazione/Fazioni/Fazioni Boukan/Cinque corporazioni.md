@@ -29,7 +29,7 @@ Questo è il modo in cui le cinque parti che hanno costituito la città di Harab
 |     | Ministro della guerra  | [[Personaggi/Personaggi non giocanti/PNG Boukan/Harabor/5 Corporazioni/Julius Pugno di Ferro\|Julius Pugno di Ferro]]   |
 
 ## Membri importanti
-- [[Mireth Kaal\|Mireth Kaal]] ; [[Basko Rill\|Basko Rill]]
+- [[Personaggi/Personaggi non giocanti/PNG Boukan/Harabor/5 Corporazioni/Mireth Kaal\|Mireth Kaal]] ; [[Basko Rill\|Basko Rill]]
 - [[Maresa Holtz\|Maresa Holtz]] ; [[Orren Ilst\|Orren Ilst]]
 - [[Ilyra Voss\|Ilyra Voss]] ; [[Tareq d'Ambra\|Tareq d'Ambra]]
 - [[Yseldra Nox\|Yseldra Nox]] ; [[Corven Daskin\|Corven Daskin]]

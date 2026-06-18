@@ -30,8 +30,8 @@ Delle fiamme oscure avvampano nell'aria. Il sigillo si completa delimitando la z
 - [[Personaggi/Personaggi giocanti/Caaros\|Caaros]]
 - [[Personaggi/Personaggi giocanti/Xeasan\|Xeasan]] 
 - Magnifico Dumbidore
-- [[Fanatico\|Fanatico]]
-- [[Sacerdotessa Osybus\|Sacerdotessa Osybus]]
+- [[Bestiario/Umanoidi/Fanatico del Ritorno\|Fanatico del Ritorno]]
+- [[Bestiario/Umanoidi/Sacerdotessa Osybus\|Sacerdotessa Osybus]]
 
 
 ## Luoghi visitati

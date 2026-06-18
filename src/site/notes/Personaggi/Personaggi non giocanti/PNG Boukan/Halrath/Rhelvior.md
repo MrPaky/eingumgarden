@@ -10,10 +10,10 @@
 Coboldo alto poco più di un metro e dieci, vestito come un esploratore, anche se spesso porta con se oggetti che potrebbero essere decisamente fuori-scala per lui, facendolo apparire goffo e impacciato nel suo agire. Segretario di ambasciata.
 
 ## Obiettivi
-Il suo obiettivo è quello di andare all'avanscoperta dei luoghi dove sono state registrate comparse di draghi sul piano materiale ed informare di conseguenza il suo Consigliere d'Ambasciata, [[Personaggi/Personaggi non giocanti/PNG Boukan/Tharsival\|Tharsival]] , in modo che possa guidarli verso luoghi o atteggiamenti più consoni. 
+Il suo obiettivo è quello di andare all'avanscoperta dei luoghi dove sono state registrate comparse di draghi sul piano materiale ed informare di conseguenza il suo Consigliere d'Ambasciata, in modo che possa guidarli verso luoghi o atteggiamenti più consoni. 
 
 ## Relazioni
-- Alleato: [[Ambientazione/Fazioni/Alleanza di Platino\|Alleanza di Platino]] 
+- Alleato: [[Ambientazione/Fazioni/Fazioni Eingum/Alleanza di Platino\|Alleanza di Platino]] 
 
 ## Trame legate
 - 

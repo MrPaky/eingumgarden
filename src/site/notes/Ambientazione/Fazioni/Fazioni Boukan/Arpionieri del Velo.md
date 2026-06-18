@@ -35,7 +35,7 @@ Milizia regolare del regno di Boukan, che vede la sua nascita effettiva con la s
 
 ##  Alleanze e ostilità
 - 🟢 Alleata con: [[Ambientazione/Fazioni/Fazioni Boukan/Cinque corporazioni\|Cinque corporazioni]], [[Ambientazione/Fazioni/Fazioni Boukan/Vele Nere\|Vele Nere]] 
-- 🔴 Nemica di: [[Ambientazione/Fazioni/Fazioni Boukan/Figli del Ritorno\|Figli del Ritorno]], [[Ambientazione/Fazioni/Fazioni Boukan/Confraternita delle Nebbie di Sangue\|Confraternita delle Nebbie di Sangue]], [[Ambientazione/Fazioni/Zanna Purificatrice\|Zanna Purificatrice]]
+- 🔴 Nemica di: [[Ambientazione/Fazioni/Fazioni Boukan/Figli del Ritorno\|Figli del Ritorno]], [[Ambientazione/Fazioni/Fazioni Boukan/Confraternita delle Nebbie di Sangue\|Confraternita delle Nebbie di Sangue]], [[Ambientazione/Fazioni/Fazioni Eingum/Zanna Purificatrice\|Zanna Purificatrice]]
 
 
 ## Eventi storici rilevanti

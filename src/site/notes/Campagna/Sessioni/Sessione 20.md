@@ -18,9 +18,9 @@ PLACE HOLDER 3 - WIP
 - [[Personaggi/Personaggi giocanti/Delia\|Delia]]
 - [[Personaggi/Personaggi giocanti/Caaros\|Caaros]]
 - [[Personaggi/Personaggi giocanti/Xeasan\|Xeasan]] 
-- [[Sacerdotessa Osybus\|Sacerdotessa Osybus]]
+- [[Bestiario/Umanoidi/Sacerdotessa Osybus\|Sacerdotessa Osybus]]
 - [[Bestiario/Non-morti/Zombie\|Zombie]]
-- [[Fanatico\|Fanatico]]
+- [[Bestiario/Umanoidi/Fanatico del Ritorno\|Fanatico del Ritorno]]
 
 ## Luoghi visitati
 - 
