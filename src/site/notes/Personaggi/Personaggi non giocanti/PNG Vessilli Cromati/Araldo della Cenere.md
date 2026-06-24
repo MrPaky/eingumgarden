@@ -23,7 +23,7 @@ Un gigante tra gli umani, annerito dal fuoco ma ancora elegante nel portamento. 
 
 ## Luoghi associati
 - [[Luoghi/Piano materiale/Bisiborg/Bisiborg\|Bisiborg]]
-- [[Ambientazione/Piani di esistenza/Piani Interni/Piano del Fuoco\|Piano del Fuoco]]
+- [[Luoghi/Piani di esistenza/Piani Interni/Piano del Fuoco\|Piano del Fuoco]]
 - [[Luoghi/Piano materiale/Boukan/Halrath\|Halrath]]
 
 ## Discorso
