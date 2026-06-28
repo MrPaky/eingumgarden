@@ -10,7 +10,7 @@
 Un gigante tra gli umani, annerito dal fuoco ma ancora elegante nel portamento. Indossa relativamente poco, se non un mantello nero che è in parte sbrindellato in altre bruciato, percorso di tanto in tanto da venature rosse che ricordano il fuoco che arde nei carboni. Il volto, parzialmente visibile, mostra tratti scheletrici e vene incandescenti sotto pelle, ai lati del collo sono presenti alcune scaglie rosse, che sembrano estendersi in piccole porzioni un pò ovunque sul suo corpo. I suoi occhi brillano di una luce cremisi innaturale, con quello sinistro con la pupilla verticale.
 
 ## Obiettivi
-- ************
+
 - Scovare la "nuova minaccia"
 
 ## Relazioni

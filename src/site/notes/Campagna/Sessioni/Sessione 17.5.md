@@ -16,7 +16,7 @@ In pratica, al momento, siamo alla caccia di un cacciatore di draghi di nome Ada
 - [[Personaggi/Personaggi non giocanti/PNG Boukan/Halrath/Rhelvior\|Rhelvior]]
 - Val
 - [[Personaggi/Personaggi non giocanti/PNG Boukan/Vari/Giallo\|Giallo]]
-- [[Personaggi/Personaggi non giocanti/PNG Vessilli Cromati/Araldo della Cenere\|Araldo della Cenere]]
+- [[Personaggi/Personaggi non giocanti/PNG Vessilli Cromati/Araldo della Cenere test\|Araldo della Cenere test]]
 
 ## Luoghi visitati
 - 

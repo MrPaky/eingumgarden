@@ -17,4 +17,4 @@ Principalmente umani, mezzelfi, mezzorchi, aaracrocka; relativamente pochi halfi
 - 
 
 ## Eventi chiave
-- Attacco da parte dell'[[Personaggi/Personaggi non giocanti/PNG Vessilli Cromati/Araldo della Cenere\|Araldo della Cenere]]
+- Attacco da parte dell'[[Personaggi/Personaggi non giocanti/PNG Vessilli Cromati/Araldo della Cenere test\|Araldo della Cenere test]]
