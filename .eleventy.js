@@ -94,7 +94,8 @@ function getAnchorAttributes(filePath, linkTitle) {
 const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
 
 module.exports = function (eleventyConfig) {
-  eleventyConfig.addPassthroughCopy({ "public": "." });
+  eleventyConfig.addPassthroughCopy({ "public/assets/eingum": "assets/eingum" });
+eleventyConfig.addPassthroughCopy({ "public/codex.css": "codex.css" });
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
   });
