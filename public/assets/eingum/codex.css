@@ -1,0 +1,187 @@
+/* =========================================================
+   EINGUM CODEX · v0.4
+   PASSO 1B · HTML Asset Architecture
+   ========================================================= */
+
+.ec-page.ec-v04 {
+  position: relative;
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 3rem 2rem 4rem;
+  color: #2b211b;
+  box-shadow: 0 18px 42px rgba(0, 0, 0, .22);
+  overflow: hidden;
+}
+.ec-page.ec-v04 .ec-title{
+  border-bottom:none !important;
+  box-shadow:none !important;
+}
+/* Pergamena vera, caricata da HTML */
+.ec-page.ec-v04 .ec-paper-bg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  max-width: none !important;
+  object-fit: cover;
+  object-position: center top;
+  z-index: 0;
+  pointer-events: none;
+  user-select: none;
+}
+
+/* Contenuto sopra la carta */
+.ec-page.ec-v04 .ec-core {
+  position: relative;
+  z-index: 1;
+  max-width: 760px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+/* Crest */
+.ec-page.ec-v04 .ec-crest {
+  display: block;
+  width: 150px;
+  max-width: 38vw !important;
+  height: auto;
+  margin: 0 auto 1.2rem;
+  object-fit: contain;
+  filter: drop-shadow(0 8px 12px rgba(0, 0, 0, .22));
+}
+
+/* =========================================================
+   TITOLO
+   ========================================================= */
+
+.ec-page.ec-v04 .ec-title{
+    margin:0 0 1.6rem;
+    font-size:3rem;
+    font-weight:700;
+    text-align:center;
+    color:#2b211b;
+}
+
+/* =========================================================
+   MIRROR · v0.4
+   ========================================================= */
+
+.ec-page.ec-v04 .ec-mirror{
+  width:min(420px,100%);
+  margin:0 auto 1.5rem;
+  padding:12px;
+  background:rgba(255,248,232,.28);
+  border:1px solid rgba(68,48,31,.42);
+  box-shadow:
+    0 12px 26px rgba(0,0,0,.22),
+    inset 0 0 18px rgba(255,255,255,.18);
+}
+
+.ec-page.ec-v04 .ec-mirror img{
+  display:block;
+  width:100%;
+  height:auto;
+}
+
+.ec-page.ec-v04 .ec-mirror-small{
+  width:min(340px,100%);
+}
+
+.ec-page.ec-v04 .ec-mirror-medium{
+  width:min(460px,100%);
+}
+
+.ec-page.ec-v04 .ec-mirror-large{
+  width:min(620px,100%);
+}
+
+/* =========================================================
+   SUBTITLE · v0.4
+   ========================================================= */
+.ec-page.ec-v04 .ec-subtitle{
+  display:block;
+  margin:1.1rem auto .55rem !important;
+  max-width:560px;
+  text-align:center;
+  font-style:italic;
+  font-size:1.18rem;
+  line-height:1.2;
+  color:#2f2118;
+  text-shadow:0 1px 1px rgba(255,255,255,.45);
+}
+
+
+/* =========================================================
+   PLATE · v0.4
+   ========================================================= */
+
+.ec-page.ec-v04 .ec-plate{
+  position:relative;
+  width:520px;
+  max-width:92%;
+  height:210px;
+  margin:.15rem auto 2.2rem;
+  overflow:visible;
+}
+
+.ec-page.ec-v04 .ec-plate-img{
+  display:block;
+  position:absolute;
+  left:50%;
+  top:-170px;
+  width:520px;
+  max-width:none;
+  height:auto;
+  transform:translateX(-50%);
+  z-index:1;
+  filter:drop-shadow(0 10px 14px rgba(0,0,0,.35));
+}
+
+.ec-page.ec-v04 .ec-plate-text{
+  position:absolute;
+  left:0;
+  top:0;
+  width:100%;
+  height:210px;
+  z-index:4;
+  pointer-events:none;
+}
+
+.ec-page.ec-v04 .ec-plate-text p{
+  position:absolute;
+  left:50%;
+  width:78%;
+  margin:0;
+  transform:translateX(-50%);
+
+  text-align:center;
+  white-space:nowrap;
+
+  font-size:.92rem;
+  font-weight:700;
+  letter-spacing:.16em;
+  line-height:1;
+  text-transform:uppercase;
+
+  color:#211711;
+  text-shadow:
+    0 1px 0 rgba(255,255,255,.22),
+    0 -1px 0 rgba(0,0,0,.24);
+}
+
+.ec-page.ec-v04 .ec-plate-text .line-1{ top:27%; }
+.ec-page.ec-v04 .ec-plate-text .line-2{ top:51%; }
+.ec-page.ec-v04 .ec-plate-text .line-3{ top:75%; }
+
+.ec-page.ec-v04 .ec-screw{
+  position:absolute;
+  width:40px;
+  height:40px;
+  z-index:5;
+  filter:drop-shadow(0 1px 2px rgba(0,0,0,.35));
+}
+
+.ec-page.ec-v04 .ec-screw.tl{top:28%;left:10%;transform:rotate(18deg);}
+.ec-page.ec-v04 .ec-screw.tr{top:28%;right:12%;transform:rotate(95deg);}
+.ec-page.ec-v04 .ec-screw.bl{bottom:7%;left:10%;transform:rotate(210deg);}
+.ec-page.ec-v04 .ec-screw.br{bottom:7%;right:13%;transform:rotate(300deg);}
