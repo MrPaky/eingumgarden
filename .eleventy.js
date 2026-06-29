@@ -94,8 +94,16 @@ function getAnchorAttributes(filePath, linkTitle) {
 const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
 
 module.exports = function (eleventyConfig) {
+  eleventyConfig.addTransform("codex-asset-paths", function (content, outputPath) {
+    if (outputPath && outputPath.endsWith(".html")) {
+      return content.replaceAll('src="assets/eingum/', 'src="/assets/eingum/');
+    }
+    return content;
+  });
+
   eleventyConfig.addPassthroughCopy({ "public/assets/eingum": "assets/eingum" });
-eleventyConfig.addPassthroughCopy({ "public/codex.css": "codex.css" });
+  eleventyConfig.addPassthroughCopy({ "public/codex.css": "codex.css" });
+
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
   });
