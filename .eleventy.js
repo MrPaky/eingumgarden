@@ -94,15 +94,18 @@ function getAnchorAttributes(filePath, linkTitle) {
 const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
 
 module.exports = function (eleventyConfig) {
-  eleventyConfig.addTransform("codex-asset-paths", function (content, outputPath) {
-    if (outputPath && outputPath.endsWith(".html")) {
-      return content.replaceAll('src="assets/eingum/', 'src="/assets/eingum/');
-    }
+ eleventyConfig.addTransform("codex-asset-paths", function (content, outputPath) {
+  if (outputPath && outputPath.endsWith(".html")) {
+    content = content.replaceAll('src="assets/eingum/', 'src="/assets/eingum/');
+    content = content.replaceAll('src="Immagini/', 'src="/Immagini/');
     return content;
-  });
+  }
+  return content;
+});
 
   eleventyConfig.addPassthroughCopy({ "public/assets/eingum": "assets/eingum" });
   eleventyConfig.addPassthroughCopy({ "public/codex.css": "codex.css" });
+  eleventyConfig.addPassthroughCopy({ "src/site/notes/Immagini": "Immagini" });
 
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
