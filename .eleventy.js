@@ -105,7 +105,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy({ "public/assets/eingum": "assets/eingum" });
   eleventyConfig.addPassthroughCopy({ "public/codex.css": "codex.css" });
-  eleventyConfig.addPassthroughCopy({ "src/site/notes/Immagini": "Immagini" });
+  eleventyConfig.addPassthroughCopy({ "src/site/img/user/Immagini": "Immagini" });
 
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
